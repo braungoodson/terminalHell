@@ -1,13 +1,23 @@
 terminalHell
 ============
 
-Ragegramming metropolis fighting game.
+Ragegramming metropunk fighting game.
 
+Dependencies
+============
+
+* Interactive Server Shell
+
+Features
+============
+
+* Fork with this code, dynamic module injection.
 
 Usage
 ============
 
 <pre>
-$ ./rage
-rage> 
+$ ./fork <parentContext>
+fork> --forking
+fork> fork
 </pre>
